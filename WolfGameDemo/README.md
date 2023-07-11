@@ -39,7 +39,7 @@
 
 ### 步骤 3：接入Stark SDK Unity Tools
 
-1. 在Unity Hub中点击Open，打开`RTC_WolfGame_Demo`目录
+1. 在Unity Hub中点击Open，打开`WolfGameDemo`目录
 	
 2. 下载并导入 bgdt package 并重启 Unity
  [ com.bytedance.bgdt-cp-3.0.250.unitypackage · 279.29 KB](https://lf3-stark-cdn.bdgp.cc/obj/ide-updateserver-bytegame/bgdt/com.bytedance.bgdt/3.0.250/com.bytedance.bgdt.unitypackage)
@@ -47,7 +47,7 @@
 3. 安装发布工具并重启 Unity
 
 	点击 Bytegame -> Bytegame Developer Tools，安装 Bytegame Developer Tools、StarkSDK 和 StarkSDKUnityTools。
-	<img src="https://portal.volccdn.com/obj/volcfe/cloud-universal-doc/upload_fb994a675e827fc74c03aa9e5668c129.png" width="700px" >
+	<img src="https://portal.volccdn.com/obj/volcfe/cloud-universal-doc/upload_e84885c2d4c8ef89206aa2db2a1fb12e.png" width="700px" >
 
 ### 步骤4: 安装 WebGL 和 Android 构建平台
 
